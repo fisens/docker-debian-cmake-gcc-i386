@@ -6,5 +6,5 @@ Supported Versions: latest, trixie
 # How to use
 
 ```bash
-$ docker run --rm -v `pwd`:/usr/src/myapp ghcr.io/fisens/debian-cmakegcc-i386:<version> command
+$ docker run --rm -v `pwd`:/usr/src/myapp ghcr.io/fisens/debian-cmake-gcc-i386:<version> command
 ```
