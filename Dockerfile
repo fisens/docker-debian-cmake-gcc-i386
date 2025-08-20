@@ -11,4 +11,5 @@ RUN apt-get update \
         git \
         ca-certificates \
         file \
+        nodejs \
   && apt-get clean all
