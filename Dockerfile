@@ -12,4 +12,5 @@ RUN apt-get update \
         ca-certificates \
         file \
         nodejs \
+        git-lfs \
   && apt-get clean all
